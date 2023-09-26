@@ -1,4 +1,4 @@
-# School Performance Analysis Project
+# Py City Schools Analysis 
 ### Overview
 This comprehensive analysis of school performance based on a dataset containing information about schools and their students. The analysis explores various aspects of school metrics, student performance, and the impact of school size and budget on academic outcomes.
 
